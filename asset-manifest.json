@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.dd9287a4.chunk.css",
+    "main.js": "/react-blog/static/js/main.65e5591a.chunk.js",
+    "main.js.map": "/react-blog/static/js/main.65e5591a.chunk.js.map",
+    "runtime~main.js": "/react-blog/static/js/runtime~main.a8b04b7f.js",
+    "runtime~main.js.map": "/react-blog/static/js/runtime~main.a8b04b7f.js.map",
+    "static/js/2.74cab9a9.chunk.js": "/react-blog/static/js/2.74cab9a9.chunk.js",
+    "static/js/2.74cab9a9.chunk.js.map": "/react-blog/static/js/2.74cab9a9.chunk.js.map",
+    "index.html": "/react-blog/index.html",
+    "precache-manifest.ce897f3c77d1e7f6057d7ffd1569b28e.js": "/react-blog/precache-manifest.ce897f3c77d1e7f6057d7ffd1569b28e.js",
+    "service-worker.js": "/react-blog/service-worker.js",
+    "static/css/main.dd9287a4.chunk.css.map": "/react-blog/static/css/main.dd9287a4.chunk.css.map",
+    "static/media/main.scss": "/react-blog/static/media/PerfectDos.51458c49.ttf",
+    "static/media/floppy.png": "/react-blog/static/media/floppy.7d563114.png",
+    "static/media/moon.svg": "/react-blog/static/media/moon.8a48074f.svg",
+    "static/media/post_1.png": "/react-blog/static/media/post_1.6beac0b3.png",
+    "static/media/post_2.png": "/react-blog/static/media/post_2.ad7060c5.png",
+    "static/media/sun.svg": "/react-blog/static/media/sun.24f589d5.svg"
+  }
+}
